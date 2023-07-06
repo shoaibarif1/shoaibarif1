@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shoaib Arif</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt"coding" width="400" src="https://tenor.com/view/coding-gif-27034905">
+<img align="right" alt"coding" width="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaibarif1&label=Profile%20views&color=0e75b6&style=flat" alt="shoaibarif1" /> </p>
 
