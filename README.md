@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaibarif1&label=Profile%20views&color=0e75b6&style=flat" alt="shoaibarif1" /> </p>
 
-- 🔭 I’m currently working on **StackOverflow-Clone Project**
+- 🔭 I’m currently working on **College Projects**
 
-- 🌱 I’m currently learning **MERN Stack / DSA**
+- 🌱 I’m currently learning **ComputerNetworking / DSA**
 
 - 🤝 I’m looking to collaborate on **New Projects**
 
-- 💬 Ask me about **DSA,Javascript ,React.**
+- 💬 Ask me about **Nothing**
 
 - 📫 How to reach me **shoaibarif16@gmail.com**
 
